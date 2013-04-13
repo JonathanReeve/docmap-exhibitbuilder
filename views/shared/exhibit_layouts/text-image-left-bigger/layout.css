@@ -1,9 +1,9 @@
-.text-image-left {
+.text-image-left-bigger {
     overflow:hidden; 
     zoom:1;
 }
 
-.text-image-left .exhibit-item {
+.text-image-left-bigger .exhibit-item {
     float:left; 
     width: 66%; 
     margin-right:2%;
