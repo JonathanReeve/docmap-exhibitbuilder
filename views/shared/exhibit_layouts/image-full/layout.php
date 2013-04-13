@@ -1,4 +1,4 @@
-<div class="text-image-left">
+<div class="image-full">
 	<div class="primary">
 		<?php if(exhibit_builder_use_exhibit_page_item(1)):?>
 		<div class="exhibit-item">
